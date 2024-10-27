@@ -2,4 +2,5 @@
 /MyProject/DerivedDataCache
 /MyProject/Intermediate
 /MyProject/Saved
-/MyProject/Saved
+/MyProject/.vs
+/MyProject/Binaries
